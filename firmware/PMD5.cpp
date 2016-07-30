@@ -1,4 +1,4 @@
-#include "Photon md5.h"
+#include "PMD5.h"
 
 MD5::MD5()
 {
