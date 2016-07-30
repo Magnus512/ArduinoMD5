@@ -1,7 +1,7 @@
 {
     "name": "md5",
     "version": "0.0.1",
-    "author": "Rob Dancer <rdgithub@pipcc.com>",
+    "author": "Magnus512 <magnus512@gmail.com>",
     "license": "See LICENSE",
-    "description": "md5 library"
+    "description": "MD5 library Photon"
 }
