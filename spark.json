@@ -1,6 +1,6 @@
 {
     "name": "PMD5",
-    "version": "1.5",
+    "version": "1.0.5",
     "author": "Magnus512 <magnus512@gmail.com>",
     "license": "See LICENSE",
     "description": "MD5 library Photon"
