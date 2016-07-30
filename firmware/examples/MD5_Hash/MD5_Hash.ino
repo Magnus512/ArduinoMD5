@@ -1,4 +1,4 @@
-#include "Magnus512/Photon md5.h"
+#include "ArduinoMD5/Photon md5.h"
 /*
 This is en example of how to use my MD5 library. It provides two
 easy-to-use methods, one for generating the MD5 hash, and the second
