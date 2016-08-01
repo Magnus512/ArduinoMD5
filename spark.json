@@ -1,8 +1,7 @@
-
 {
   "name": "MD5 Arduino",
   "author": "Magnus512 <magnus512@gmail.com>",
   "license": "MIT",
   "version": "1.2",
-  "description": "MD5 Library"
+  "description": "Library for MD5 in Arduino"
 }
