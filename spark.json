@@ -1,7 +1,8 @@
+
 {
-    "name": "MD5 Arduino",
-    "version": "0.1",
-    "author": "Magnus G.>",
-    "license": "LGPL",
-    "description": "Using MD5"
+  "name": "MD5 Arduino",
+  "author": "Magnus512 <magnus512@gmail.com>",
+  "license": "MIT",
+  "version": "1.2",
+  "description": "MD5 Library"
 }
